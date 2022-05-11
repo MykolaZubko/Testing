@@ -30,7 +30,6 @@
 
                 <input accept="image/*" type='file' id="image" />
                 <img id="image_top" src="#" alt="your image" />
-                <img id="image_top" src="#" alt="your image" />
 
 {{--            <img src="{{ asset('/storage/'. $data->image) }}" class="card-img-top" alt="...">--}}
             <div class="card-body">
